@@ -8,8 +8,8 @@ The purpose of this Act is to provide an explanatory guide as to how primary and
 
 ## The Act
 
-[Paper Documentation)[./act/paper_documentation.html)
+[Paper Documentation](./act/paper_documentation.html)
 
 ## Explanatory Notes
 
-[Explanatory notes to paper documentation)[./explanatory_notes/explanatory_notes_for_paper_documentation.html]
+[Explanatory notes to paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html]
