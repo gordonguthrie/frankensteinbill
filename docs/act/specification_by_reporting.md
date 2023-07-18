@@ -3,7 +3,8 @@
 From [Local Government in Scotland Act 2003](https://www.legislation.gov.uk/asp/2003/1/contents/enacted)
 
 ```
-“Integrated waste management plans: Scotland
+Integrated waste management plans: Scotland
+
 44ZA Duty to prepare integrated waste management plan
 
   (1)It shall be the duty of a local authority to—
