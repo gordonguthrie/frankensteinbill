@@ -20,6 +20,18 @@ If your legislation is in a language other than English please add both the orgi
 
 During the development of digitial services, speedbumps have been often removed. If this is the case in your example, please provide appropriate links to how this was done.
 
+## Quality
+
+The target reader of this Bill is a policy person, minister, parliamentarian or parliamentary or political aid.
+
+Chapters in this bill should be of an approriate quality to:
+
+* enable readers to track down the origional code being discussed in its full context
+* understand the history of the clause
+* if the clause is no longer extant, the reader should be able to get an understanding of how and when it came to be changed
+
+In addition the chapters should be seen as specific examples of a general type of clause - and the reader should be given enough information to be able to recognise other examples in their own experience.
+
 ## The Bill
 
 1. [Taxomonies and Rules](./act/taxonomy_and_rules.html)
