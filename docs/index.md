@@ -12,4 +12,4 @@ The purpose of this Act is to provide an explanatory guide as to how primary and
 
 ## Explanatory Notes
 
-[Explanatory notes to paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html]
+[Explanatory notes to paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
