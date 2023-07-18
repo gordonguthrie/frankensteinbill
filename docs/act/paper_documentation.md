@@ -1,6 +1,6 @@
 # Requirement To Have Paper Documentation
 
-https://github.com/gordonguthrie/frankensteinbill/tree/main/docs/act
+[Power Of Attorney Act 1971 (UK)](https://www.legislation.gov.uk/ukpga/1971/27/section/1/enacted)
 
 1. Execution of powers of attorney
 
