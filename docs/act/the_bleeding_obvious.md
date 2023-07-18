@@ -14,9 +14,9 @@ From [The Childrens Act 2004](https://www.legislation.gov.uk/ukpga/2004/31/secti
   (3) A database under this section may only include information falling within subsection (4) in relation to a person to whom arrangements specified in subsection (1) relate.
 
   (4) The information referred to in subsection (3) is information of the following descriptions in relation to a person—
-    (a) his name, address, gender and date of birth;
-    (b) a number identifying him
-    (c) the name and contact details of any person with parental responsibility for him (within the meaning of section 3 of the Children Act 1989 (c. 41)) or who has care of him at any time;
+   (a) his name, address, gender and date of birth;
+   (b) a number identifying him
+   (c) the name and contact details of any person with parental responsibility for him (within the meaning of section 3 of the Children Act 1989 (c. 41)) or who has care of him at any time;
    (d) details of any education being received by him (including the name and contact details of any educational institution attended by him);
    (e) the name and contact details of any person providing primary medical services in relation to him under Part 1 of the National Health Service Act 1977 (c. 49);
    (f) the name and contact details of any person providing to him services of such description as the Secretary of State may by regulations specify;   
