@@ -22,8 +22,10 @@ If your legislation is in a language other than English please add both the orgi
 
 1. [Taxomonies and Rules](./act/taxonomy_and_rules.html)
 1. [Paper Documentation](./act/paper_documentation.html)
+1. [Algorithms](./act/algorithms.html)
 
 ## Explanatory Notes
 
-1. [Explanatory notes to taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy.html)
-1. [Explanatory notes to paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
+1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy.html)
+1. [Explanatory notes for paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
+1. [Explanatory notes for algorithms](./explanatory_note_for_algorithms.html)
