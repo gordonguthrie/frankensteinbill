@@ -18,6 +18,8 @@ Please read the existing Frankenstein Bill to see if there is an existing exampl
 
 If your legislation is in a language other than English please add both the orginal text and a translation of it. Don't worry too much about legal fidelity of the translation, if anybody does turn this bill into law we are all doomed.
 
+During the development of digitial services, speedbumps have been often removed. If this is the case in your example, please provide appropriate links to how this was done.
+
 ## The Bill
 
 1. [Taxomonies and Rules](./act/taxonomy_and_rules.html)
@@ -26,6 +28,6 @@ If your legislation is in a language other than English please add both the orgi
 
 ## Explanatory Notes
 
-1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy.html)
+1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy_and_rules.html)
 1. [Explanatory notes for paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
 1. [Explanatory notes for algorithms](./explanatory_note_for_algorithms.html)
