@@ -7,7 +7,7 @@ CHAPTER 2
 
 TYPES OF ASSISTANCE TO BE GIVEN
 
-28Carer’s assistance
+28 Carer’s assistance
   (1) Carer’s assistance is assistance (which may or may not take the form of money) given by the Scottish
       Ministers under section 24 to an individual who provides, or has provided, care to another
       individual who has a disability.
@@ -33,14 +33,7 @@ TYPES OF ASSISTANCE TO BE GIVEN
 
 30 Winter heating assistance
 
-  (1) Winter heating assistance is assistance (which may or may not take the form of money)
-      given by the Scottish Ministers under section 24 to an individual to meet, or help
-      towards meeting, the individual’s heating costs during the winter months.
-  (2) The Scottish Ministers are to make regulations prescribing—
-    (a) the eligibility rules that are to be applied to determine whether an individual is
-        entitled to winter heating assistance, and
-    (b) what winter heating assistance an individual who is entitled to it is to be given.
-  (3) Schedule 4 makes provision about the exercise of the power conferred by subsection (2).
+   (...)
 
 31 Disability assistance
 
