@@ -38,17 +38,17 @@ In addition the chapters should be seen as specific examples of a general type o
 
 ### Schedule 1 - the obvious ones
 
-1. [Taxomonies and Rules (from the Bronze Age)](./act/taxonomy_and_rules.html)
-2. [Statement of the bleedin obvious](./act/the_bleeding_obvious.html)
-1. [Paper Documentation](./act/paper_documentation.html)
-1. [Algorithms](./act/algorithms.html)
+1. [Taxomonies and Rules (from the Bronze Age)](./bill/taxonomy_and_rules.html)
+2. [Statement of the bleedin obvious](./bill/the_bleeding_obvious.html)
+1. [Paper Documentation](./bill/paper_documentation.html)
+1. [Algorithms](./bill/algorithms.html)
 
 ### Schedule 2 - the standard ones
 
 ### Schedule 3 - the more subtle ones
 
-1. [Specification by reporting](./act/specification_by_reporting.html)
-1. [Conway's Law - specification by teams and comms](./act/conways_law_specification_by_teams_and_comms.html)
+1. [Specification by reporting](./bill/specification_by_reporting.html)
+1. [Conway's Law - specification by teams and comms](./bill/conways_law_specification_by_teams_and_comms.html)
 
 ## Explanatory Notes
 
