@@ -20,6 +20,8 @@ If your legislation is in a language other than English please add both the orgi
 
 During the development of digitial services, speedbumps have been often removed. If this is the case in your example, please provide appropriate links to how this was done.
 
+See the chapter on alogrithms for an example of one that addresses all the issues raised in this section.
+
 ## Quality
 
 The target reader of this Bill is a policy person, minister, parliamentarian or parliamentary or political aid.
