@@ -20,4 +20,12 @@ What we see in the Social Security (Scotland) Act 2018 is the definition of a se
 
 These structures may not be what provides the best, fastest, cheapest, most effective services to the citizens.
 
-#
+During the delivery process it might have become apparent that it would be better to merge 1, 2 or 3 of the benefits but because of the delegation of powers that is not possible.
+
+# Eliminating speedbumps of this form
+
+It is important to understand the context here. The Social Security Benefits listed were being transferred from the UK to Scotland - they were not new benefits, but locked into a political and social expectation of continuity - the freedom to deliver radically different forms is constrained by hard political realities.
+
+A mechanism to do this would involve a single power to lay regulations, including but not limited to, those listed, and with the ability to amend or otherwise adjust the list.
+
+Other typical mitigations against sub-optimal implementations due to Conway's Law are formal points in a programme where the organisational structure can be aligned with a different target operating model and technical and depoloyed architectures adjusted to bring them into alignment with the now better understood new world.
