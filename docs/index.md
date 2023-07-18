@@ -36,14 +36,30 @@ In addition the chapters should be seen as specific examples of a general type o
 
 ## The Bill
 
+### Schedule 1 - the obvious ones
+
 1. [Taxomonies and Rules (from the Bronze Age)](./act/taxonomy_and_rules.html)
 2. [Statement of the bleedin obvious](./act/the_bleeding_obvious.html)
 1. [Paper Documentation](./act/paper_documentation.html)
 1. [Algorithms](./act/algorithms.html)
 
+### Schedule 2 - the standard ones
+
+### Schedule 3 - the more subtle ones
+
+1. [Specification by reporting](./act/specification_by_reporting.html)
+
 ## Explanatory Notes
+
+### Explanatory notes for the obivous ones
 
 1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy_and_rules.html)
 1. [Explanatory notes for the bleedin obvious](./explanatory_notes/explanatory_notes_for_the_bleeding_obvious.html)
 1. [Explanatory notes for paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
 1. [Explanatory notes for algorithms](./explanatory_note_for_algorithms.html)
+
+### Explanatory notes for the standard ones
+
+### Explanatory notes for the more subtle ones
+
+1. [Esplanatory notes for specification by reporting](./act/explanatory_notes_for_specification_by_reporting.html)
