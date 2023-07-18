@@ -63,5 +63,5 @@ In addition the chapters should be seen as specific examples of a general type o
 
 ### Explanatory notes for the more subtle ones
 
-1. [Explanatory notes for specification by reporting](./act/explanatory_notes_for_specification_by_reporting.html)
+1. [Explanatory notes for specification by reporting](./explanatory_note/explanatory_notes_for_specification_by_reporting.html)
 1. [Explanatory notes for Conway's Law specification by teams and comms](./act/explanatory_notes_for_conways_law_specification_by_teams_and_comms.html)
