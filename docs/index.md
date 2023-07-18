@@ -8,8 +8,10 @@ The purpose of this Act is to provide an explanatory guide as to how primary and
 
 ## The Act
 
+[Taxomonies](./act/taxonomy.html)
 [Paper Documentation](./act/paper_documentation.html)
 
 ## Explanatory Notes
 
+[Explanatory notes to taxonomy](./explanatory_notes/explanatory_notes_for_taxonomy.html)
 [Explanatory notes to paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
