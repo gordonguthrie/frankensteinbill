@@ -1,2 +1,3 @@
-# frankensteinact
-A dummy act of parliament outlining speedbumps for government software development
+# Frankenstein Bill
+
+A dummy parliamentary bill collecting and explaining potential speedbumps for government software development and digitally-enabled service design.
