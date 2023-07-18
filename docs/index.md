@@ -57,7 +57,7 @@ In addition the chapters should be seen as specific examples of a general type o
 1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy_and_rules.html)
 1. [Explanatory notes for the bleedin obvious](./explanatory_notes/explanatory_notes_for_the_bleeding_obvious.html)
 1. [Explanatory notes for paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
-1. [Explanatory notes for algorithms](./explanatory_note_for_algorithms.html)
+1. [Explanatory notes for algorithms](./explanatory_notes/explanatory_note_for_algorithms.html)
 
 ### Explanatory notes for the standard ones
 
