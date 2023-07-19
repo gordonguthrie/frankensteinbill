@@ -54,6 +54,8 @@ In addition the chapters should be seen as specific examples of a general type o
 
 ### Explanatory notes for the obivous speedbumps
 
+[Introduction to the obvious speedbumps](./explanatory_notes/introduction_to_obvious_speedbumps.html)
+
 1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy_and_rules.html)
 1. [Explanatory notes for the bleedin obvious](./explanatory_notes/explanatory_notes_for_the_bleeding_obvious.html)
 1. [Explanatory notes for paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
