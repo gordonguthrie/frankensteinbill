@@ -36,32 +36,32 @@ In addition the chapters should be seen as specific examples of a general type o
 
 ## The Bill
 
-### Schedule 1 - the obvious ones
+### Schedule 1 - the obvious speedbumps
 
 1. [Taxomonies and Rules (from the Bronze Age)](./bill/taxonomy_and_rules.html)
 2. [Statement of the bleedin obvious](./bill/the_bleeding_obvious.html)
 1. [Paper Documentation](./bill/paper_documentation.html)
 1. [Algorithms](./bill/algorithms.html)
 
-### Schedule 2 - the standard ones
+### Schedule 2 - the standard clauses
 
-### Schedule 3 - the more subtle ones
+### Schedule 3 - the more subtle speedbumps
 
 1. [Specification by reporting](./bill/specification_by_reporting.html)
 1. [Conway's Law - specification by teams and comms](./bill/conways_law_specification_by_teams_and_comms.html)
 
 ## Explanatory Notes
 
-### Explanatory notes for the obivous ones
+### Explanatory notes for the obivous speedbumps
 
 1. [Explanatory notes for taxonomy and rules](./explanatory_notes/explanatory_notes_for_taxonomy_and_rules.html)
 1. [Explanatory notes for the bleedin obvious](./explanatory_notes/explanatory_notes_for_the_bleeding_obvious.html)
 1. [Explanatory notes for paper documentation](./explanatory_notes/explanatory_notes_for_paper_documentation.html)
 1. [Explanatory notes for algorithms](./explanatory_notes/explanatory_notes_for_algorithms.html)
 
-### Explanatory notes for the standard ones
+### Explanatory notes for the standard clauses
 
-### Explanatory notes for the more subtle ones
+### Explanatory notes for the more subtle speedbumps
 
 1. [Explanatory notes for specification by reporting](./explanatory_notes/explanatory_notes_for_specification_by_reporting.html)
 1. [Explanatory notes for Conway's Law specification by teams and comms](./explanatory_notes/explanatory_notes_for_conways_law_specification_by_teams_and_comms.html)
