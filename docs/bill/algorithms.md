@@ -9,7 +9,9 @@
   where—
 ```
 
-$$f * (1 + i/100)$$
+```math
+f * (1 + i/100)
+```
 
 ```
    *f* is the figure prescribed, and
