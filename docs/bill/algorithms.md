@@ -28,9 +28,13 @@
     calculated for the purposes of this Chapter as follows—
 
   where—
+```
 
-   $`f * (1 + i/100)`$
+$$
+   f * (1 + i/100)
+$$
 
+```
    f is the figure prescribed, and
    i is the number of percentage points which the Scottish Ministers consider
        reflects the change in the general level of relevant prices since a copy of
