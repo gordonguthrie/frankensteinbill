@@ -1,4 +1,4 @@
-# Requirement To Have Paper Documentation
+# Requirement to have paper documentation
 
 [Power Of Attorney Act 1971 (UK)](https://www.legislation.gov.uk/ukpga/1971/27/section/1/enacted)
 

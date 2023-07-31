@@ -46,6 +46,10 @@ In addition the chapters should be seen as specific examples of a general type o
 
 ### Schedule 2 - the standard clauses
 
+1. [Data operations: Recourse](./bill/data_operations_recourse.html)
+1. [Data operations: Definition](./bill/data_operations_definition.html)
+
+
 ### Schedule 3 - the more subtle speedbumps
 
 1. [Specification by reporting](./bill/specification_by_reporting.html)
@@ -63,6 +67,12 @@ In addition the chapters should be seen as specific examples of a general type o
 1. [Explanatory notes for algorithms](./explanatory_notes/explanatory_notes_for_algorithms.html)
 
 ### Explanatory notes for the standard clauses
+
+[Overview of standard data operations](overview_of_standard_data_operations.html)
+
+1. [Explanatory notes for data operations: Recourse](./explanatory_notes/explanatory_notes_for_data_operations_recourse.html)
+1. [Explanatory notes for data operations: Definition](./explanatory_notes/explanatory_notes_for_data_operations_definition.html)
+
 
 ### Explanatory notes for the more subtle speedbumps
 

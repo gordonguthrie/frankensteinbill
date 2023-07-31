@@ -1,4 +1,4 @@
-# Transparently Specified Algorithms
+# Transparently specified algorithms
 
 [Social Security (Scotland) Act 2018](https://www.legislation.gov.uk/asp/2018/9/section/77/enacted)
 
@@ -8,7 +8,9 @@
 
   where—
 ```
+
 $$f * (1 + i/100)$$
+
 ```
    *f* is the figure prescribed, and
    *i* is the number of percentage points which the Scottish Ministers consider
@@ -16,7 +18,7 @@ $$f * (1 + i/100)$$
        a report was last laid before the Scottish Parliament under subsection (1)(c).
 ```
 
-# Opaquely Specified Algorithms
+# Opaquely specified algorithms
 
 ## [Instruction ministérielle N°DSS/SD2B/2019/65 du 25 mars 2019](https://sante.gouv.fr/fichiers/bo/2019/19-04/ste_20190004_0000_0068.pdf) relative à la revalorisation au 1er avril 2019 des prestations familiales servies en métropole
 
