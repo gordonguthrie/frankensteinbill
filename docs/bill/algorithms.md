@@ -1,3 +1,24 @@
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+<style>
+.katex-display > .katex {
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  overflow-x: scroll;
+  text-align: initial;
+}
+.katex {
+  font: normal 1.21em KaTeX_Main, Times New Roman, serif;
+  line-height: 1.2;
+  white-space: normal;
+  text-indent: 0;
+}
+</style>
+</head>
+
 # Transparently specified algorithms
 
 [Social Security (Scotland) Act 2018](https://www.legislation.gov.uk/asp/2018/9/section/77/enacted)
@@ -7,15 +28,11 @@
     calculated for the purposes of this Chapter as follows—
 
   where—
-```
 
-$$
-f * (1 + i/100)
-$$
+   $`f * (1 + i/100)`$
 
-```
-   *f* is the figure prescribed, and
-   *i* is the number of percentage points which the Scottish Ministers consider
+   f is the figure prescribed, and
+   i is the number of percentage points which the Scottish Ministers consider
        reflects the change in the general level of relevant prices since a copy of
        a report was last laid before the Scottish Parliament under subsection (1)(c).
 ```
