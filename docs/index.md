@@ -10,7 +10,8 @@ This Frankenstein Bill is primarily aimed at policy makers and legislators who a
 
 ## Adding Your Own Examples
 
-You can clone this git repo and raise a PR in the normal way. (If you are not a git user you can also email me gordon.guthrie@gov.scot with your examples).
+You can clone this [git repo](https://github.com/gordonguthrie/frankensteinbill
+) and raise a PR in the normal way. (If you are not a git user you can also email me gordon.guthrie@gov.scot with your examples).
 
 In either case please follow the simple format here - an extract from a piece of legislation (with a link to the whole thing with mention of the jurisdiction) and then a separate explanation of the issue.
 
