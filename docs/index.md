@@ -2,6 +2,10 @@
 
 This is a Frankenstein Bill consisting of fragments of laws from many jurisdictions - both primary and secondary.
 
+## The BIus Project
+
+This bill is being created as part of the [BIus](https://open.substack.com/pub/digitalpolicy/p/my-digital-fellowship) project - Basic Lawmaking for Legislative Computer Systems. Gordon Guthrie is a Research Fellow at the Scottish Government under the First Minister's Digital Fellowship programme. To take part in the research and follow its progress please subscribe to the [Digital Policy](https://digitalpolicy.substack.com/) newsletter (**free**, can unsubscribe at any time). 
+
 ## Purpose
 
 The purpose of this bill is to provide an explanatory guide as to how primary and secondary legislation constrains services delivered in whole or in part digitally.
