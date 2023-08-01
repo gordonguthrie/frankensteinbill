@@ -2,7 +2,7 @@
 
 This overview outlines some standard data operationsa and then discusses them holistically in the context of the digitial state.
 
-## The Ooperations
+## The Operations
 
 There are a set of operations that pertain to data:
 
