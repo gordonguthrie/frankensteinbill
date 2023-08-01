@@ -40,3 +40,21 @@ From [Social Security (Scotland) Act 2018]([https://www.legislation.gov.uk/asp/2
    (10) In this section, “social security function” means a function of the Scottish Ministers under
         or by virtue of this Act.
 ```
+From the [Digital Economy Act 2017](https://www.legislation.gov.uk/ukpga/2017/30/contents/enacted)
+
+```
+       PART 5
+       Digital government
+
+       CHAPTER 1
+       Public service delivery
+
+35 Disclosure of information to improve public service delivery
+   (1) A specified person may disclose information held by the person in connection with any of the
+       person’s functions to another specified person for the purposes of an objective which is a
+       specified objective in relation to each of those persons.
+   (2) In this section “specified person” means a person specified, or of a description specified, in
+       Schedule 4.
+   (3) The appropriate national authority may by regulations amend Schedule 4 so as to add, remove or
+       modify an entry relating to a person or description of person.
+```
