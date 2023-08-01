@@ -48,7 +48,7 @@ In addition the chapters should be seen as specific examples of a general type o
 
 1. [Data operations: Recourse](./bill/data_operations_recourse.html)
 1. [Data operations: Definition](./bill/data_operations_definition.html)
-
+1. [Data operations: Read](./bill/data_operations_read.html)
 
 ### Schedule 3 - the more subtle speedbumps
 
@@ -72,7 +72,7 @@ In addition the chapters should be seen as specific examples of a general type o
 
 1. [Explanatory notes for data operations: Recourse](./explanatory_notes/explanatory_notes_for_data_operations_recourse.html)
 1. [Explanatory notes for data operations: Definition](./explanatory_notes/explanatory_notes_for_data_operations_definition.html)
-
+1. [Explanatory notes for data operations: Read](./explanatory_notes/explanatory_notes_for_data_operations_read.html)
 
 ### Explanatory notes for the more subtle speedbumps
 
