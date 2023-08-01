@@ -69,6 +69,7 @@ In addition the chapters should be seen as specific examples of a general type o
 ### Explanatory notes for the standard clauses
 
 [Overview of standard data operations](./explanatory_notes/overview_of_standard_data_operations.html)
+[Absence of operational specification](./explanatory_notes/absence_of_operational_specification.html)
 
 1. [Explanatory notes for data operations: Recourse](./explanatory_notes/explanatory_notes_for_data_operations_recourse.html)
 1. [Explanatory notes for data operations: Definition](./explanatory_notes/explanatory_notes_for_data_operations_definition.html)
