@@ -1,6 +1,8 @@
 # Standard data operations
 
-## Overview
+This overview outlines some standard data operationsa and then discusses them holistically in the context of the digitial state.
+
+## The Ooperations
 
 There are a set of operations that pertain to data:
 
@@ -64,6 +66,10 @@ When designing platforms for multiple pieces of legislation (say for instance a 
 By an large we should move towards having as little data operations in legislation as possible. We should state intent - what we are trying to achieve - on the face of the bill.
 
 Standard permissions, retention, weeding, audit and other operations should be defined in a stand alone piece of legislation which can then be refered to in numerous pieces of legislation.
+
+But having harmony in the legislation is not enough to build a high-functioning digital state, the information that is held on data needs to including deep technical information.
+
+It is trivial to enable state body A to use state body B's data in law. But if state body B doesn't have the appropriate infrastructure for digital sharing (indexing, APIs, a mechanism for issuing and manageing API keys and authorisation, an underlying technical platform that can be exposed to the internet, etc, etc) then this is a recipe of increasing cost, complexity and dirty data. Without the technical wherewithal documents will be printed out from system B and sent to be retyped into system A. 
 
 Moving data out of legislation requires a trade-off tho - as access to data, reuse of it, recourse to being on or off a database are of central concern to the parliament.
 
